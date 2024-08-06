@@ -1,0 +1,4 @@
+#AWS Account
+python
+kafka-python
+jupyter notebook
